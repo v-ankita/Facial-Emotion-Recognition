@@ -23,5 +23,9 @@ In depth analysis of the results and conclusion can be found in file Result_Anal
 
 
 ----
-
-To Use:
+### How to use this repository :-
+Clone this repository using the command given below
+* git clone https://gith <br>
+Install the required packages
+* pip install -r requirements.txt
+Congratulations! you are all set now
